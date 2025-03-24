@@ -22,7 +22,7 @@
 
 ## 📫 Contato | 📫 Contact  
 
-- 🔗 [LinkedIn](www.linkedin.com/in/manuela-matos-barata-a68169236)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manuela-matos-barata-a68169236/)  
 - 📧 barata.manuela.mb@gmail.com
 
 ---
