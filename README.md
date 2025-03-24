@@ -1,16 +1,54 @@
-## Hi there 👋
+<div id="content-pt">
+  
+# 👋 Olá, eu sou a Manu!
 
-<!--
-**MB-Manuela-Matos-Barata/MB-Manuela-Matos-Barata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática no **Politécnico de Tomar**  
+💻 Apaixonada por tecnologia, programação e desenvolvimento de jogos  
+🚀 Aprendendo e construindo projetos com **C, Python, Unreal Engine e Unity**  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias & Ferramentas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** C, Python  
+- **Game Engines:** Unreal Engine, Unity  
+- **Banco de Dados:** SQL  
+- **Sistemas Operacionais:** Windows, Linux  
+
+## 📫 Contato  
+
+- 🔗 [LinkedIn](https://linkedin.com/in/seuusuario)  
+- 📧 seuemail@email.com  
+
+</div>
+
+<div id="content-en" style="display: none;">
+  
+# 👋 Hi, I'm Manu!
+
+🎓 Computer Science student at **Politécnico de Tomar**  
+💻 Passionate about technology, programming, and game development  
+🚀 Learning and building projects with **C, Python, Unreal Engine, and Unity**  
+
+## 🔧 Technologies & Tools  
+
+- **Languages:** C, Python  
+- **Game Engines:** Unreal Engine, Unity  
+- **Databases:** SQL  
+- **Operating Systems:** Windows, Linux  
+
+## 📫 Contact  
+
+- 🔗 [LinkedIn](https://linkedin.com/in/seuusuario)  
+- 📧 your@email.com  
+
+</div>
+
+<script>
+  // Detecta o idioma do navegador do visitante
+  const userLang = navigator.language || navigator.userLanguage;
+  
+  if (userLang.startsWith("en")) {
+    document.getElementById("content-pt").style.display = "none";
+    document.getElementById("content-en").style.display = "block";
+  }
+</script>
+
