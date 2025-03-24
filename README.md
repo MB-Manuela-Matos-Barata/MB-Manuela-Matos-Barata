@@ -1,54 +1,31 @@
-<div id="content-pt">
-  
-# 👋 Olá, eu sou a Manu!
+# 👋 Olá, eu sou a Manu! | Hi, I'm Manu!
+
+## Português 📝 Sobre mim | English 📝 About me  
 
 🎓 Estudante de Informática no **Politécnico de Tomar**  
 💻 Apaixonada por tecnologia, programação e desenvolvimento de jogos  
-🚀 Aprendendo e construindo projetos com **C, Python, Unreal Engine e Unity**  
-
-## 🔧 Tecnologias & Ferramentas  
-
-- **Linguagens:** C, Python  
-- **Game Engines:** Unreal Engine, Unity  
-- **Banco de Dados:** SQL  
-- **Sistemas Operacionais:** Windows, Linux  
-
-## 📫 Contato  
-
-- 🔗 [LinkedIn](https://linkedin.com/in/seuusuario)  
-- 📧 seuemail@email.com  
-
-</div>
-
-<div id="content-en" style="display: none;">
-  
-# 👋 Hi, I'm Manu!
+🚀 Aprendendo e construindo projetos com **C, Python**  
 
 🎓 Computer Science student at **Politécnico de Tomar**  
 💻 Passionate about technology, programming, and game development  
-🚀 Learning and building projects with **C, Python, Unreal Engine, and Unity**  
+🚀 Learning and building projects with **C, Python**
 
-## 🔧 Technologies & Tools  
+---
 
-- **Languages:** C, Python  
-- **Game Engines:** Unreal Engine, Unity  
-- **Databases:** SQL  
-- **Operating Systems:** Windows, Linux  
+## 🔧 Tecnologias & Ferramentas | 🔧 Technologies & Tools  
 
-## 📫 Contact  
+- **Linguagens | Languages:** C, Python  <!--- **Game Engines:** Unreal Engine, Unity, Godot-->
+- **Banco de Dados | Databases:** SQL  
+- **Sistemas Operacionais | Operating Systems:** Windows, Linux  
+
+---
+
+## 📫 Contato | 📫 Contact  
 
 - 🔗 [LinkedIn](https://linkedin.com/in/seuusuario)  
-- 📧 your@email.com  
+- 📧 barata.manuela.mb@gmail.com
 
-</div>
+---
 
-<script>
-  // Detecta o idioma do navegador do visitante
-  const userLang = navigator.language || navigator.userLanguage;
-  
-  if (userLang.startsWith("en")) {
-    document.getElementById("content-pt").style.display = "none";
-    document.getElementById("content-en").style.display = "block";
-  }
-</script>
-
+🚀 Sempre explorando novas tecnologias e melhorando minhas habilidades!  
+🚀 Always exploring new technologies and improving my skills!  
