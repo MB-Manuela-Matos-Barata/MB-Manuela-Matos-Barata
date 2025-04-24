@@ -6,7 +6,7 @@
 💻 Apaixonada por tecnologia, programação e desenvolvimento de jogos  
 🚀 Aprendendo e construindo projetos com **C, Python**  
 
-🎓 Computer Science student at **Politécnico de Tomar**  
+🎓 IT student at **Politécnico de Tomar**  
 💻 Passionate about technology, programming, and game development  
 🚀 Learning and building projects with **C, Python**
 
