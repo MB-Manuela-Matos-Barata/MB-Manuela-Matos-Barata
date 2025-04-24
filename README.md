@@ -14,7 +14,7 @@
 
 ## 🔧 Tecnologias & Ferramentas | 🔧 Technologies & Tools  
 
-- **Linguagens | Languages:** C, Python, 'HTML' e CSS,   <!--- **Game Engines:** Unreal Engine, Unity, Godot-->
+- **Linguagens | Languages:** C, Python, 'HTML' e CSS   <!--- **Game Engines:** Unreal Engine, Unity, Godot-->
 - **Banco de Dados | Databases:** SQL  
 - **Sistemas Operacionais | Operating Systems:** Windows, Linux  
 
